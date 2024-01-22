@@ -1,1 +1,1 @@
-This is a project to display airport flights
+This is a project to display Beirut International Airport flights in a secure way
